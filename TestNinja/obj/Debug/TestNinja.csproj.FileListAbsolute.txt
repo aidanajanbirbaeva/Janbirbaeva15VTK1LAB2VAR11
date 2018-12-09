@@ -1,0 +1,106 @@
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csprojResolveAssemblyReference.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\user\Desktop\NLabs\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (2)\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saken\Desktop\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saken\Desktop\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Saken\Desktop\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Saken\Desktop\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (6)\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Елжан\Desktop\8888\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (7)\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Saken\Desktop\Новая папка (7)\222\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
